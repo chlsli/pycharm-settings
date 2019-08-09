@@ -4,7 +4,7 @@
     <property name="created">2019-03-29T21:01:46</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-06-11T13:28:00</property>
+    <property name="modified">2019-08-09T22:20:13</property>
     <property name="originalScheme">Night Eighties</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -30,6 +30,7 @@
     <option name="FOLDED_TEXT_BORDER_COLOR" value="434343" />
     <option name="GUTTER_BACKGROUND" value="343434" />
     <option name="INDENT_GUIDE" value="343434" />
+    <option name="INFORMATION_HINT" value="4b4d4d" />
     <option name="LINE_NUMBERS_COLOR" value="808080" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="cccccc" />
     <option name="METHOD_SEPARATORS_COLOR" value="343434" />
