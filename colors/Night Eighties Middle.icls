@@ -4,7 +4,7 @@
     <property name="created">2019-03-29T21:01:46</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-08-09T22:20:13</property>
+    <property name="modified">2019-08-26T14:31:02</property>
     <property name="originalScheme">Night Eighties</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -508,6 +508,9 @@
       <value>
         <option name="FOREGROUND" value="c678dd" />
       </value>
+    </option>
+    <option name="LIVE_TEMPLATE_ATTRIBUTES">
+      <value />
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
