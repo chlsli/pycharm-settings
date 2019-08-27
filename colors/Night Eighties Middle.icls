@@ -4,7 +4,7 @@
     <property name="created">2019-03-29T21:01:46</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-08-26T14:31:02</property>
+    <property name="modified">2019-08-27T14:35:48</property>
     <property name="originalScheme">Night Eighties</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -819,7 +819,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="98c379" />
+        <option name="FOREGROUND" value="888f56" />
         <option name="ERROR_STRIPE_COLOR" value="61afef" />
       </value>
     </option>
