@@ -4,7 +4,7 @@
     <property name="created">2019-03-29T21:01:46</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-08-27T16:28:26</property>
+    <property name="modified">2019-10-20T19:36:29</property>
     <property name="originalScheme">Night Eighties</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -478,9 +478,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="444444" />
+        <option name="BACKGROUND" value="0" />
         <option name="ERROR_STRIPE_COLOR" value="94bd76" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -590,7 +589,7 @@
     </option>
     <option name="PY.ANNOTATION">
       <value>
-        <option name="FOREGROUND" value="a0ff7f" />
+        <option name="FOREGROUND" value="bf9a" />
       </value>
     </option>
     <option name="PY.BRACES">
@@ -843,9 +842,8 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="444444" />
+        <option name="BACKGROUND" value="640e18" />
         <option name="ERROR_STRIPE_COLOR" value="b56277" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">

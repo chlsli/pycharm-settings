@@ -1,5 +1,41 @@
 <application>
   <component name="TextMateSettings">
+    <option name="themesMapping">
+      <map>
+        <entry key="Atom" value="Mac Classic" />
+        <entry key="Atom copy" value="Mac Classic" />
+        <entry key="Base16 Ocean" value="Mac Classic" />
+        <entry key="Darcula" value="Darcula" />
+        <entry key="Darcula copy" value="Mac Classic" />
+        <entry key="Darcula copy1" value="Mac Classic" />
+        <entry key="Darcula copy2" value="Mac Classic" />
+        <entry key="Default" value="Mac Classic" />
+        <entry key="Github" value="GitHub" />
+        <entry key="High сontrast" value="Mac Classic" />
+        <entry key="Monokai" value="Monokai" />
+        <entry key="Monokai Sublime" value="Mac Classic" />
+        <entry key="Monokai Sublime Text 3" value="Mac Classic" />
+        <entry key="Monokai Sublime Text 3 copy" value="Mac Classic" />
+        <entry key="Monokai Sublime Text 3 copy1" value="Mac Classic" />
+        <entry key="Monokai Sublime Text 3 prefer" value="Mac Classic" />
+        <entry key="Night Eighties" value="Mac Classic" />
+        <entry key="Night Eighties Large" value="Mac Classic" />
+        <entry key="Night Eighties Middle" value="Mac Classic" />
+        <entry key="One Dark" value="Mac Classic" />
+        <entry key="One Dark copy" value="Mac Classic" />
+        <entry key="Peacock" value="Mac Classic" />
+        <entry key="Peacock copy" value="Mac Classic" />
+        <entry key="Sublime Monokai CYAN v2" value="Mac Classic" />
+        <entry key="Sublime TomorrowNightEighties" value="Mac Classic" />
+        <entry key="Tomorrow Night" value="Mac Classic" />
+        <entry key="Tomorrow Night copy" value="Mac Classic" />
+        <entry key="Twilight" value="Twilight" />
+        <entry key="WarmNeon" value="Mac Classic" />
+        <entry key="Wombat" value="Mac Classic" />
+        <entry key="Wombat copy" value="Mac Classic" />
+        <entry key="Xcode Clivic" value="Mac Classic" />
+      </map>
+    </option>
     <option name="bundles">
       <list>
         <BundleConfigBean>
