@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="89782160-f325-4ffa-8dcc-6eb1387665de" name="dmai: 192.168.68.56" url="http://192.168.68.56">
+        <fileTransfer host="192.168.68.56" port="22" rootFolder="/home/pengjiefeng/changlin/project" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d76ea1e1-fe70-43b0-8563-43f2dae6108b" name="dmai: 56 torch" url="http://192.168.68.56">
+        <fileTransfer host="192.168.68.56" port="22" rootFolder="/home/pengjiefeng/changlin/project" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
