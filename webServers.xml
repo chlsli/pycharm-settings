@@ -41,6 +41,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="4021aa2e-87cc-41b2-8ba9-1f9355c3fb2c" name="dmai: 84" url="http://192.168.68.84">
+        <fileTransfer host="192.168.68.84" port="22" rootFolder="/home/pengjiefeng/lcl/project" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
