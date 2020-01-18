@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '...'" />
-    <option name="defaultScopeName" value="Directory '...'" />
+    <option name="customScope" value="Project 'PXAT'" />
+    <option name="defaultScopeName" value="Project 'PXAT'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...'" />
+    <option name="SEARCH_SCOPE" value="Project 'PXAT'" />
   </component>
 </application>
