@@ -17,6 +17,43 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="8c273617-a028-411c-9d0f-da856ba7919d" name="dmai: 82" url="http://192.168.68.82">
+        <fileTransfer host="192.168.68.82" port="22" rootFolder="/home/pengjiefeng/lcl/project" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="dabfd5a6-7875-4b08-9780-6c51584d2b98" name="dmai: 83" url="http://192.168.68.83">
+        <fileTransfer host="192.168.68.83" port="22" rootFolder="/home/pengjiefeng/lcl/project" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3a14b750-c130-45e0-8357-4fcbbca37b12" name="dmai: 81" url="http://192.168.68.81">
+        <fileTransfer host="192.168.68.81" port="22" rootFolder="/home/pengjiefeng/lcl/project" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4021aa2e-87cc-41b2-8ba9-1f9355c3fb2c" name="dmai: 84" url="http://192.168.68.84">
+        <fileTransfer host="192.168.68.84" port="22" rootFolder="/home/pengjiefeng/lcl/project" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="810c79e3-1251-4aa3-8296-a4980c3d664a" name="pengjiefeng@192.168.68.83:22" url="http:///">
+        <fileTransfer host="192.168.68.83" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
