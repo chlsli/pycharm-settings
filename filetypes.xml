@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.pyc;.svn;CVS;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="avi" type="Native" />
       <mapping pattern="pallete" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
