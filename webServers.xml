@@ -54,8 +54,16 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="6e082476-11e1-4ed0-bf06-d2032bd8c384" name="sensetime: 8.31" url="http://10.198.8.31">
+      <webServer id="6e082476-11e1-4ed0-bf06-d2032bd8c384" name="sensetime: 8.8" url="http://10.198.8.31">
         <fileTransfer host="10.198.8.31" port="21" rootFolder="/lustre/lichanglin1/changlin/charm/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f434fd46-e8a8-4ea0-bdaa-b432b154a56d" name="sensetime: 8.6" url="http://10.198.6.31">
+        <fileTransfer host="10.198.6.31" port="21" rootFolder="/lustre/lichanglin1/changlin/charm">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
