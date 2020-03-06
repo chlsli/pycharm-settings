@@ -54,6 +54,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="6e082476-11e1-4ed0-bf06-d2032bd8c384" name="sensetime: 8.31" url="http://10.198.8.31">
+        <fileTransfer host="10.198.8.31" port="21" rootFolder="/lustre/lichanglin1/changlin">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
