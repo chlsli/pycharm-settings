@@ -1,0 +1,13 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="192.168.68.56" id="687c8467-c9a6-4920-8427-eb8e5b694949" port="22" customName="dmai: 192.168.68.56" nameFormat="CUSTOM" username="pengjiefeng" />
+      <sshConfig authType="PASSWORD" host="192.168.68.56" id="081e8f47-2a06-4522-9243-e6797c41d29e" port="22" customName="dmai: 56 torch" nameFormat="CUSTOM" username="pengjiefeng" />
+      <sshConfig authType="PASSWORD" host="192.168.68.82" id="c13d83e2-6b92-48c2-8cc0-57e56606df1c" port="22" customName="dmai: 82" nameFormat="CUSTOM" username="pengjiefeng" />
+      <sshConfig authType="PASSWORD" host="192.168.68.83" id="b67fc768-5c85-4103-a43f-a807c8c083eb" port="22" customName="dmai: 83" nameFormat="CUSTOM" username="pengjiefeng" />
+      <sshConfig authType="PASSWORD" host="192.168.68.81" id="552b0e43-5c1e-48c7-acae-b08251b5adfa" port="22" customName="dmai: 81" nameFormat="CUSTOM" username="pengjiefeng" />
+      <sshConfig authType="PASSWORD" host="192.168.68.84" id="82b3fa2b-096c-4657-8a3a-be70146377f3" port="22" customName="dmai: 84" nameFormat="CUSTOM" username="pengjiefeng" />
+      <sshConfig authType="PASSWORD" host="192.168.68.83" id="ef54f46d-f488-40ab-a482-e7166067e255" port="22" customName="pengjiefeng@192.168.68.83:22" nameFormat="CUSTOM" username="pengjiefeng" />
+    </configs>
+  </component>
+</application>
