@@ -8,7 +8,7 @@
       <sshConfig authType="PASSWORD" host="192.168.68.81" id="552b0e43-5c1e-48c7-acae-b08251b5adfa" port="22" customName="dmai: 81" nameFormat="CUSTOM" username="pengjiefeng" />
       <sshConfig authType="PASSWORD" host="192.168.68.84" id="82b3fa2b-096c-4657-8a3a-be70146377f3" port="22" customName="dmai: 84" nameFormat="CUSTOM" username="pengjiefeng" />
       <sshConfig authType="PASSWORD" host="192.168.68.83" id="ef54f46d-f488-40ab-a482-e7166067e255" port="22" customName="pengjiefeng@192.168.68.83:22" nameFormat="CUSTOM" username="pengjiefeng" />
-      <sshConfig authType="PASSWORD" host="192.168.68.83" id="2c335a4c-0823-458c-8688-55a1d9af1d52" port="22" customName="pengjiefeng@192.168.68.83:22" nameFormat="CUSTOM" username="pengjiefeng" />
+      <sshConfig authType="PASSWORD" host="192.168.68.83" id="95431b8f-81de-42b2-bbe5-881a46c7e08d" port="22" customName="pengjiefeng@192.168.68.83:22" nameFormat="CUSTOM" username="pengjiefeng" />
     </configs>
   </component>
 </application>
