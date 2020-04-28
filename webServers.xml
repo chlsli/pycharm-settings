@@ -2,72 +2,55 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="89782160-f325-4ffa-8dcc-6eb1387665de" name="dmai: 192.168.68.56" url="http://192.168.68.56">
-        <fileTransfer host="192.168.68.56" port="22" rootFolder="/home/pengjiefeng/changlin/project" accessType="SFTP">
+        <fileTransfer rootFolder="/home/pengjiefeng/changlin/project" accessType="SFTP" host="192.168.68.56" port="22" sshConfigId="ceec498b-8361-4088-bacf-53bdcc274b2f" sshConfig="dmai: 192.168.68.56">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="d76ea1e1-fe70-43b0-8563-43f2dae6108b" name="dmai: 56 torch" url="http://192.168.68.56">
-        <fileTransfer host="192.168.68.56" port="22" rootFolder="/home/pengjiefeng/changlin/project" accessType="SFTP">
+        <fileTransfer rootFolder="/home/pengjiefeng/changlin/project" accessType="SFTP" host="192.168.68.56" port="22" sshConfigId="c2f68722-af06-4d12-992a-f1c1d458ce0b" sshConfig="dmai: 56 torch">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="8c273617-a028-411c-9d0f-da856ba7919d" name="dmai: 82" url="http://192.168.68.82">
-        <fileTransfer host="192.168.68.82" port="22" rootFolder="/home/pengjiefeng/lcl/project" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="dabfd5a6-7875-4b08-9780-6c51584d2b98" name="dmai: 83" url="http://192.168.68.83">
-        <fileTransfer host="192.168.68.83" port="22" rootFolder="/home/pengjiefeng/lcl/project" accessType="SFTP">
+        <fileTransfer rootFolder="/home/pengjiefeng/lcl/project" accessType="SFTP" host="192.168.68.83" port="22" sshConfigId="b532af7a-7668-4e15-a9f9-1f57e0891016" sshConfig="dmai: 83">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="3a14b750-c130-45e0-8357-4fcbbca37b12" name="dmai: 81" url="http://192.168.68.81">
-        <fileTransfer host="192.168.68.81" port="22" rootFolder="/home/pengjiefeng/lcl/project" accessType="SFTP">
+        <fileTransfer rootFolder="/home/pengjiefeng/lcl/project" accessType="SFTP" host="192.168.68.81" port="22" sshConfigId="866c0553-0365-4035-922e-0a7222730ac5" sshConfig="dmai: 81">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="4021aa2e-87cc-41b2-8ba9-1f9355c3fb2c" name="dmai: 84" url="http://192.168.68.84">
-        <fileTransfer host="192.168.68.84" port="22" rootFolder="/home/pengjiefeng/lcl/project" accessType="SFTP">
+        <fileTransfer rootFolder="/home/pengjiefeng/lcl/project" accessType="SFTP" host="192.168.68.84" port="22" sshConfigId="74950c07-f911-41cb-acb7-23202cb956c0" sshConfig="dmai: 84">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="810c79e3-1251-4aa3-8296-a4980c3d664a" name="pengjiefeng@192.168.68.83:22" url="http:///">
-        <fileTransfer host="192.168.68.83" port="22" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+        <fileTransfer accessType="SFTP" host="192.168.68.83" port="22" sshConfigId="855fa01e-d369-4957-8dcf-c09b9fb018ab" sshConfig="pengjiefeng@192.168.68.83:22" />
       </webServer>
       <webServer id="6e082476-11e1-4ed0-bf06-d2032bd8c384" name="sensetime: 8.8" url="http://10.198.8.31">
-        <fileTransfer host="10.198.8.31" port="21" rootFolder="/lustre/lichanglin1/changlin/charm/">
+        <fileTransfer rootFolder="/lustre/lichanglin1/changlin/charm/" host="10.198.8.31" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="f434fd46-e8a8-4ea0-bdaa-b432b154a56d" name="sensetime: 8.6" url="http://10.198.6.31">
-        <fileTransfer host="10.198.6.31" port="21" rootFolder="/lustre/lichanglin1/changlin/charm">
+        <fileTransfer rootFolder="/lustre/lichanglin1/changlin/charm" host="10.198.6.31" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
     </option>
