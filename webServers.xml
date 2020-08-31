@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="2bc0cee8-aa73-4d8c-863e-c8788c722dfb" name="dmai: 82">
+        <fileTransfer rootFolder="/home/pengjiefeng/lcl/project" accessType="SFTP" host="192.168.68.82" port="22" sshConfigId="dc4c69c0-0015-4a38-b0d3-e3f6955d694f" sshConfig="dmai: 82">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="89782160-f325-4ffa-8dcc-6eb1387665de" name="dmai: 192.168.68.56" url="http://192.168.68.56">
         <fileTransfer rootFolder="/home/pengjiefeng/changlin/project" accessType="SFTP" host="192.168.68.56" port="22" sshConfigId="ceec498b-8361-4088-bacf-53bdcc274b2f" sshConfig="dmai: 192.168.68.56">
           <advancedOptions>
