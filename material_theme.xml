@@ -1,0 +1,19 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="useMaterialWallpapers" value="true" />
+    <option name="tabsHeight" value="14" />
+    <option name="accentColor" value="4bb378" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="-22cc11b1:1766f7b80fa:-8000" />
+    <option name="version" value="5.5.0" />
+  </component>
+</application>
