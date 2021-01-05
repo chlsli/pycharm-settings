@@ -60,6 +60,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="3fe86d9b-6803-4723-ae3b-3ec33533a703" name="dmai: 83 atp" url="http://192.168.68.83">
+        <fileTransfer rootFolder="/home/pengjiefeng/lcl/project" accessType="SFTP" host="192.168.68.83" port="22" sshConfigId="b532af7a-7668-4e15-a9f9-1f57e0891016" sshConfig="dmai: 83">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
