@@ -67,8 +67,15 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="a559f422-93ee-41c4-ba5e-de1a904af74e" name="tangtao@121.46.19.2">
+      <webServer id="a559f422-93ee-41c4-ba5e-de1a904af74e" name="3090: tangtao@121.46.19.2">
         <fileTransfer rootFolder="/mnt/data1/tangtao/" accessType="SFTP" host="121.46.19.2" port="20852" sshConfigId="96d5756e-2824-467e-a4d3-52eb0a5f7e4e" sshConfig="tangtao@121.46.19.2:20852:20852 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f6de1a32-5f5f-4527-9bc2-a49cbb14ac35" name="2080: tangtao@172.18.167.21">
+        <fileTransfer rootFolder="/data1/tangtao" accessType="SFTP" host="172.18.167.21" port="22" sshConfigId="3cfe1b62-95c1-4ecc-afff-853f467fc0c5" sshConfig="tangtao@172.18.167.21:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
